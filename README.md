@@ -19,7 +19,7 @@ This project is an Ecommerce platform focused on building and managing computer 
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [API Endpoints](#api-endpoints)
-4. [Database Models](#database-models)
+4. [Database Models](#database-design)
    
 
 ## Installation
