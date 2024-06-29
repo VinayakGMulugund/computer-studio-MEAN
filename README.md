@@ -11,8 +11,7 @@ This project is an Ecommerce platform focused on building and managing computer 
 - Sequelize ORM
 - PostgreSQL
 - JavaScript
-- Docker
-- Kubernetes
+- TypeScript
 
 ## Table of Contents
 
